@@ -4,6 +4,12 @@ You can use the [editor on GitHub](https://github.com/bogusred/pages-test/edit/m
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Embeds
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5mV6Qrwr0rY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe src="https://calendar.google.com/calendar/embed?src=paperdemon.com_1fvqrbkjbup5ajafande31jgk0%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
